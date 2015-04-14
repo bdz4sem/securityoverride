@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming8\bin\Debug\programming8.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming8\bin\Debug\programming8.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming8\bin\Debug\programming8.pdb
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming8\obj\Debug\programming8.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming8\obj\Debug\programming8.prog8.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming8\obj\Debug\programming8.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming8\obj\Debug\programming8.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming8\obj\Debug\programming8.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming8\obj\Debug\programming8.pdb

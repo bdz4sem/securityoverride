@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming7\bin\Debug\programming7.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming7\bin\Debug\programming7.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming7\bin\Debug\programming7.pdb
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming7\obj\Debug\programming7.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming7\obj\Debug\programming7.Form1.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming7\obj\Debug\programming7.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming7\obj\Debug\programming7.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming7\obj\Debug\programming7.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming7\obj\Debug\programming7.pdb

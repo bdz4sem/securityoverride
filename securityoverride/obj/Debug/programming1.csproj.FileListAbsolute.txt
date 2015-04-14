@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\securityoverride\securityoverride\bin\Debug\securityoverride.exe.config
+c:\users\user\documents\visual studio 2013\Projects\securityoverride\securityoverride\bin\Debug\securityoverride.exe
+c:\users\user\documents\visual studio 2013\Projects\securityoverride\securityoverride\bin\Debug\securityoverride.pdb
+c:\users\user\documents\visual studio 2013\Projects\securityoverride\securityoverride\obj\Debug\securityoverride.prog1.resources
+c:\users\user\documents\visual studio 2013\Projects\securityoverride\securityoverride\obj\Debug\securityoverride.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\securityoverride\securityoverride\obj\Debug\programming1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\securityoverride\securityoverride\obj\Debug\securityoverride.exe
+c:\users\user\documents\visual studio 2013\Projects\securityoverride\securityoverride\obj\Debug\securityoverride.pdb

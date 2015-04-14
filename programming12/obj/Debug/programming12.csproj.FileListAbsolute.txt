@@ -1,0 +1,8 @@
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming12\bin\Debug\programming12.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming12\obj\Debug\programming12.prog12.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming12\obj\Debug\programming12.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming12\obj\Debug\programming12.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming12\bin\Debug\programming12.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming12\bin\Debug\programming12.pdb
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming12\obj\Debug\programming12.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming12\obj\Debug\programming12.pdb

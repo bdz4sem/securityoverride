@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming6\bin\Debug\programming6.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming6\bin\Debug\programming6.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming6\bin\Debug\programming6.pdb
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming6\obj\Debug\programming6.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming6\obj\Debug\programming6.prog6.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming6\obj\Debug\programming6.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming6\obj\Debug\programming6.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming6\obj\Debug\programming6.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming6\obj\Debug\programming6.pdb

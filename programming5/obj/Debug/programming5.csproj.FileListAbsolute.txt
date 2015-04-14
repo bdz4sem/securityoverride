@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming5\bin\Debug\programming5.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming5\bin\Debug\programming5.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming5\bin\Debug\programming5.pdb
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming5\obj\Debug\programming5.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming5\obj\Debug\programming5.prog5.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming5\obj\Debug\programming5.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming5\obj\Debug\programming5.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming5\obj\Debug\programming5.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming5\obj\Debug\programming5.pdb

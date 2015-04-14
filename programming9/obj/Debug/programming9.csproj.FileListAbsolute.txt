@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming9\bin\Debug\programming9.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming9\bin\Debug\programming9.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming9\bin\Debug\programming9.pdb
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming9\obj\Debug\programming9.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming9\obj\Debug\programming9.prog9.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming9\obj\Debug\programming9.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming9\obj\Debug\programming9.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming9\obj\Debug\programming9.exe
+C:\Users\User\documents\visual studio 2013\Projects\securityoverride\programming9\obj\Debug\programming9.pdb
